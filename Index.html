@@ -742,7 +742,7 @@ function filterAndRender(){
       };
 
       // For demo: show confirmation and clear cart
-      alert('Pedido confirmado. Gracias ' + name + 'A continuacion se te generada tu orden de compras');
+      alert('Pedido confirmado. Gracias ' + name + ' a continuacion se te generada tu orden de compra');
  // ====== PDF DISEÑADO ======
 
   const { jsPDF } = window.jspdf;
@@ -758,7 +758,7 @@ function filterAndRender(){
   doc.rect(0, 0, 210, 30, 'F');
   doc.setFontSize(18);
   doc.setTextColor(255, 255, 255);
-  doc.text('🛒 TIENDA EXCLUSIVA', 14, 20);
+  doc.text('TIENDA EXCLUSIVA', 14, 20);
   doc.setFontSize(11);
   doc.text('Boleta de Compra', 170, 20, { align: 'right' });
 
