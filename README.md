@@ -41,28 +41,6 @@ Aplicación frontend de comercio electrónico desarrollada como proyecto de port
 
 ---
 
-## 📸 Capturas
-
-### Inicio
-
-![Inicio de NÓMADA](docs/images/inicio.png)
-
-### Catálogo
-
-![Catálogo de productos](docs/images/catalogo.png)
-
-### Carrito
-
-![Carrito de compras](docs/images/carrito.png)
-
-### Checkout
-
-![Proceso de checkout](docs/images/checkout.png)
-
-> Para mostrar estas imágenes, crea la carpeta `docs/images` y sube las capturas con esos nombres.
-
----
-
 ## 🛒 Experiencia de compra
 
 El proyecto simula el flujo principal de una tienda online:
